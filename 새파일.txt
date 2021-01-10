@@ -21,7 +21,11 @@
     <li>push</li> 
     <li>pull</li> 
     <li>push.egoing</li> 
+<<<<<<< HEAD
     
+=======
+    <li>pull.leezche</li>
+>>>>>>> 55804f22556e80bf3d9e5926f997854442d45a9e
     </ul>
     </body>
     
